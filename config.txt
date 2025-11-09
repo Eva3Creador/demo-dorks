@@ -1,0 +1,6 @@
+# demo config
+# ARCHIVO DE DEMOSTRACIÓN: BORRAR DESPUÉS.
+db_host=localhost
+db_user=demo
+db_pass=demo123
+api_key=DEMO-KEY-000
