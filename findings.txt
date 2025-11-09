@@ -1,0 +1,23 @@
+=== FINDINGS REPORT ===
+Proyecto: Hacking con Google Dorks
+Alumna: Javiera Bustos
+Fecha: (coloca la fecha de hoy)
+
+Archivo analizado: backup.sql
+Fuente: https://eva3creador.github.io/demo-dorks/backup.sql
+Hash SHA256: 
+42f8b6b41cdaf07f04c5138efc8711fba3e788f99d7a81a2271be14a94f531f5
+
+Resultado del análisis en VirusTotal:
+- Motores detectando amenazas: (ejemplo: 0/72)
+- Tamaño del archivo: (ejemplo: 2.1 KB)
+- Tipo de archivo: SQL text
+
+Observaciones:
+- El archivo fue hallado mediante una búsqueda Dork.
+- No contiene malware, pero ilustra la exposición de datos por mala configuración.
+- Este experimento demuestra cómo Google Dorks puede identificar archivos sensibles públicos.
+
+Conclusión:
+- La exposición de datos mediante indexación pública representa un riesgo potencial.
+- Se recomienda evitar publicar respaldos (.sql, .txt, .cfg) en repositorios públicos.
